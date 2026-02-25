@@ -37,7 +37,7 @@ Proper LLM initialization using CrewAI LLM class.
 
 **Fix:**  
 Replaced with:
-```python
+
 from langchain_community.document_loaders import PyPDFLoader
 
 ---
